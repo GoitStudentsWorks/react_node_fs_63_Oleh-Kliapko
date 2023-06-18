@@ -15,7 +15,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="GooseTrack_front">
+        <BrowserRouter basename="react_node_fs_63_Oleh-Kliapko">
           <ThemeContextProvider>
             <NotificationProvider>
               <App />
