@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_63_Oleh-Kliapko/static/css/main.ddaf851f.css",
-    "main.js": "/react_node_fs_63_Oleh-Kliapko/static/js/main.a948d743.js",
+    "main.js": "/react_node_fs_63_Oleh-Kliapko/static/js/main.f73ba37a.js",
     "static/js/324.f2685014.chunk.js": "/react_node_fs_63_Oleh-Kliapko/static/js/324.f2685014.chunk.js",
     "static/js/637.a0cd3f96.chunk.js": "/react_node_fs_63_Oleh-Kliapko/static/js/637.a0cd3f96.chunk.js",
     "static/js/846.dd3dcb46.chunk.js": "/react_node_fs_63_Oleh-Kliapko/static/js/846.dd3dcb46.chunk.js",
@@ -81,7 +81,7 @@
     "static/media/x-close.svg": "/react_node_fs_63_Oleh-Kliapko/static/media/x-close.7c680e0313f7c2787d4f4d6d917ad7ab.svg",
     "static/media/plus.svg": "/react_node_fs_63_Oleh-Kliapko/static/media/plus.fe3f53b16cf8c42666af1dccd608acfa.svg",
     "main.ddaf851f.css.map": "/react_node_fs_63_Oleh-Kliapko/static/css/main.ddaf851f.css.map",
-    "main.a948d743.js.map": "/react_node_fs_63_Oleh-Kliapko/static/js/main.a948d743.js.map",
+    "main.f73ba37a.js.map": "/react_node_fs_63_Oleh-Kliapko/static/js/main.f73ba37a.js.map",
     "324.f2685014.chunk.js.map": "/react_node_fs_63_Oleh-Kliapko/static/js/324.f2685014.chunk.js.map",
     "637.a0cd3f96.chunk.js.map": "/react_node_fs_63_Oleh-Kliapko/static/js/637.a0cd3f96.chunk.js.map",
     "846.dd3dcb46.chunk.js.map": "/react_node_fs_63_Oleh-Kliapko/static/js/846.dd3dcb46.chunk.js.map",
@@ -111,6 +111,6 @@
   },
   "entrypoints": [
     "static/css/main.ddaf851f.css",
-    "static/js/main.a948d743.js"
+    "static/js/main.f73ba37a.js"
   ]
 }
